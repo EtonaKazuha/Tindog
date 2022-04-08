@@ -1,8 +1,12 @@
 TinDog
 
-Tindog is a website developed for learning purposes. It uses HTML 
-and CSS to create a visually appealing design. It uses many button 
-animations on the screen to make the website more dynamic.
+Tindog is a website developed for learning purposes. This website 
+is inspired by Tinder. Tindog is just like tinder but for dogs. 
+You can find your dog a match so it won't be single anymore. 
+
+The wesbite uses HTML and CSS to create a visually appealing 
+design. It uses many button animations on the screen to make 
+the website more dynamic.
 
 
 index.html
