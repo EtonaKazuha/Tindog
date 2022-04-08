@@ -29,10 +29,10 @@ Creator Emails:
   jadedragon330@gmail.com
   maaznavin@gmail.com
 
-file creation date:
+File creation date:
 May 23, 2021
 
-last update on Github:
+Last update on Github:
 April 7, 2022
 
 There are no plans for updating this repository's code.
